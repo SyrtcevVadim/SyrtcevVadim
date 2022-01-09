@@ -7,3 +7,4 @@ for making games together
 E-mail: I’m looking to collaborate with ambitious persons, who can do his best to make something enormous
 telegram: @syrtcevvi
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syrtcevvadim)](https://github.com/anuraghazra/github-readme-stats)
